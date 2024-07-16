@@ -1,0 +1,6 @@
+#EJERCICIO1
+print ("((3+2)/(2*5))^2 =",((3+2)/(2*5))**2)
+#ejercicio2
+p_payaso=112
+p_muneca=75
+print ("El peso total del paquete es de " , p_payaso*23 + p_muneca*54 , "g")
